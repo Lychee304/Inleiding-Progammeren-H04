@@ -1,0 +1,114 @@
+// 4.1
+
+// int a = 150;
+// int b = 150;
+// int c = 200;
+// int d = 200;
+
+// size(500,500);
+
+// rect(a, b, c, d);
+// fill(a,b,c);
+// text("dit is gekleurd via variabele waardes", 170, 200);
+
+
+
+
+// 4.2
+
+// int a = 15%2;
+// int b = 31%3;
+// int c = 10%5;
+// int d = 38%4;
+
+
+// println(a);
+// println(b);
+// println(c);
+// println(d);
+
+
+
+
+// 4.3
+
+// int mijnEersteVariabele = 10;
+
+
+// println(mijnEersteVariabele);
+
+
+// mijnEersteVariabele = mijnEersteVariabele * 10;
+
+
+// println(mijnEersteVariabele);
+
+
+// mijnEersteVariabele = mijnEersteVariabele / 10;
+
+
+// println(mijnEersteVariabele);
+
+
+// mijnEersteVariabele = mijnEersteVariabele - 10;
+
+
+// println(mijnEersteVariabele);
+
+
+
+
+// 4.4
+
+// float a = 9.7;
+// float b = 3.3;
+// float c = 39.9;
+
+// println(Math.round(a));
+// println(Math.ceil(b));
+// println(Math.floor(c));
+
+
+
+
+// 4.5
+
+// float sec = 0;
+// float uur = 0;
+// float dag = 0;
+// float jaar = 0;
+// float tijd = 300;
+
+// jaar = tijd / 12;
+
+// println(jaar);
+
+// dag = jaar * 365;
+
+// println(dag);
+
+// uur = dag * 24;
+
+// println(uur);
+
+// sec = uur * 3600;
+
+// println(sec);
+
+// tijd = sec % 36000;
+
+// println(tijd);
+
+
+
+
+// 4.6
+
+// double engels = 7;
+// double nederlands = 5;
+// double geschiedenis = 10;
+
+
+// double cijfer = (engels + nederlands + geschiedenis) / 3;
+
+// println(Math.round(cijfer * 100.0) / 100.0);
